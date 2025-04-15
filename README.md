@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Dias!
 
-<!--
-**Dadrout/Dadrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **About Me:**  
+I'm an aspiring front-end developer and a high school student passionate about technology, science, and building meaningful digital experiences. I enjoy turning ideas into clean, interactive websites and constantly strive to improve my skills in HTML, CSS, JavaScript, and React.
 
-Here are some ideas to get you started:
+Curious by nature, I’m also interested in physics, mathematics, and how they intersect with programming. I’ve worked on several personal projects, participated in competitions, and continue learning through platforms like Stepik and YouTube.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **I’m always looking to:**
+- Join exciting projects  
+- Collaborate with other developers  
+- Learn something new every day  
+
+🔧 **Tech Stack:**  
+**Languages & Tools:** HTML, CSS, JavaScript, React  
+**Tools:** VS Code, Git, GitHub, Figma (for design mockups)
+
+📚 **Currently Learning:**  
+- React best practices  
+- GitHub Pages & project deployment  
+- UX/UI principles
