@@ -3,7 +3,7 @@
 💡 **About Me:**  
 I'm an aspiring front-end developer and a high school student passionate about technology, science, and building meaningful digital experiences. I enjoy turning ideas into clean, interactive websites and constantly strive to improve my skills in HTML, CSS, JavaScript, and React.
 
-Curious by nature, I’m also interested in physics, mathematics, and how they intersect with programming. I’ve worked on several personal projects, participated in competitions, and continue learning through platforms like Stepik and YouTube.
+Curious by nature, I’m also interested in physics, mathematics, and how they intersect with programming. I’ve worked on several personal projects, participated in competitions, and continue learning through platforms like YouTube and etc.
 
 🧠 **I’m always looking to:**
 - Join exciting projects  
