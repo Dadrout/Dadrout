@@ -284,13 +284,17 @@ Award
 
 <div align="center">
 
+
+
+---
+
+<div align="center">
+
 # ✦ Right Now
 
-</div>
-
-<table>
+<table align="center">
 <tr>
-<td width="25%" align="center">
+<td align="center" width="220">
 
 ### 🤖 AI
 
@@ -299,7 +303,7 @@ AI-powered products
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="220">
 
 ### 🧠 CS
 
@@ -308,7 +312,7 @@ and problem solving
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="220">
 
 ### ⚙️ GO
 
@@ -317,7 +321,7 @@ engineering mindset
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="220">
 
 ### 🚀 SHIP
 
@@ -330,15 +334,9 @@ into real products
 
 <br/>
 
-<div align="center">
-
 > ### “The best project is the one that leaves localhost.”
 
 </div>
-
----
-
-<div align="center">
 
 # ✦ GitHub Signals
 
